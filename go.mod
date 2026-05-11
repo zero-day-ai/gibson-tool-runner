@@ -6,7 +6,7 @@ toolchain go1.25.5
 
 require (
 	github.com/Ullaakut/nmap/v3 v3.1.0
-	github.com/zero-day-ai/sdk v1.7.3
+	github.com/zero-day-ai/sdk v1.7.4
 	google.golang.org/protobuf v1.36.11
 )
 
