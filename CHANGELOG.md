@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.105.0](https://github.com/zero-day-ai/gibson-tool-runner/compare/v0.104.0...v0.105.0) (2026-05-20)
+
+
+### Features
+
+* consume platform-clients for transport observability and readiness ([#29](https://github.com/zero-day-ai/gibson-tool-runner/issues/29)) ([d740562](https://github.com/zero-day-ai/gibson-tool-runner/commit/d7405625caa88700212c947021b4735c147bf102))
+
 ## 1.0.0 (2026-05-10)
 
 
