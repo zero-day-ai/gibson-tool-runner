@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.106.0](https://github.com/zero-day-ai/gibson-tool-runner/compare/v0.105.0...v0.106.0) (2026-05-24)
+
+
+### Features
+
+* **runner:** implement dispatch loop — decode → policy → Execute → ABI emit (closes [#33](https://github.com/zero-day-ai/gibson-tool-runner/issues/33)) ([#44](https://github.com/zero-day-ai/gibson-tool-runner/issues/44)) ([3e8a395](https://github.com/zero-day-ai/gibson-tool-runner/commit/3e8a395675222e44853654ef8bd7ebc182f5e21c))
+
 ## [0.105.0](https://github.com/zero-day-ai/gibson-tool-runner/compare/v0.104.0...v0.105.0) (2026-05-20)
 
 
