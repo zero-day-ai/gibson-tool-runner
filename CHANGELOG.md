@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.106.2](https://github.com/zeroroot-ai/gibson-tool-runner/compare/v0.106.1...v0.106.2) (2026-06-01)
+
+
+### Bug Fixes
+
+* **deps:** update first-party deps to post-rename module path versions ([#64](https://github.com/zeroroot-ai/gibson-tool-runner/issues/64)) ([dd181e5](https://github.com/zeroroot-ai/gibson-tool-runner/commit/dd181e5856450fe7393d9f33f50741f524bc3a9f))
+
 ## [0.106.1](https://github.com/zero-day-ai/gibson-tool-runner/compare/v0.106.0...v0.106.1) (2026-05-24)
 
 
